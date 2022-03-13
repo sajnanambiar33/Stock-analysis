@@ -128,6 +128,6 @@ End Sub
          Advantage of refactoring is the reduced time to run the macro. Refactored code took only one fourth the time of the original code. 
          ![image](https://user-images.githubusercontent.com/100480390/158081216-e89e8091-7a35-4135-8024-8cac2dd3b22e.png)
           ![image](https://user-images.githubusercontent.com/100480390/158081228-4bfbef7a-472c-40c3-9ed6-c6cf2627d3f7.png)
-         Disadvantage of refactoring VBA code includes longer and confusing code making it less user friendly.
+         Disadvantage of refactoring VBA code includes longer and confusing coding syntax  making it less user friendly.
 
    
